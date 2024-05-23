@@ -25,3 +25,5 @@ tar.bz2, .tbzou, .tbz2
 ```
 
 O primeiro argumento zipfile e o nome do arquivo a ser criado, depois disso, uma lista de arquivos a serem adicionados.
+
+***

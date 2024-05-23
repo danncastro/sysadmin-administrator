@@ -19,3 +19,5 @@ Sua sintaxe funciona da seguinte forma:&#x20;
 ```bash
 comando –help
 ```
+
+***

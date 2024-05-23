@@ -14,3 +14,4 @@ Software que não possui interação direta com o monitor e o teclado da maquina
 O software Linux geralmente se enquadra em uma de quatro categorias;
 {% endhint %}
 
+***

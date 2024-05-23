@@ -10,7 +10,7 @@ Frustrado com o licenciamento do **MINIX**, um sistema operacional semelhante ao
 
 Originalmente Linus Torvalds nomeou o projeto como **Freax**, no entanto, um administrador do servidor ao qual os arquivos de desenvolvimento foram carregados, renomeou-o para Linux, um **portmanteau** do nome de Linus e UNIX. O nome ficou preso.
 
-> Apesar de adotar todos os requisitos da especificação UNIX, o Linux não foi certificado, portanto Linux realmente não é UNIX!**.**
+> _Apesar de adotar todos os requisitos da especificação UNIX, o Linux não foi certificado, portanto Linux realmente não é UNIX!_
 
 {% hint style="success" %}
 **E apenas... tipo UNIX**

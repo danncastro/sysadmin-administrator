@@ -16,3 +16,5 @@ p: previous/anterior
 u: up/sobre um nível.
 q: Para sair do info, basta pressionar esta tecla.
 ```
+
+***

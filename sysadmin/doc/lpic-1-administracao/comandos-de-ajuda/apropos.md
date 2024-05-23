@@ -11,3 +11,5 @@ Funciona exatamente como o comando:
 ```bash
 man -k palavra chave.
 ```
+
+***

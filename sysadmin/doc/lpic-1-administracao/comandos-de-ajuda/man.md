@@ -19,3 +19,5 @@ As páginas de manual são diferenciadas por **"seções"**. Por padrão, existe
 7. Diversos: Incluindo pacotes de macro e convenções: Por exemplo: man(7)>,groff(7).
 8. Comandos de administração do sistema: Geralmente apenas para raiz.
 9. Rotinas do Kernel.
+
+***

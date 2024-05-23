@@ -30,3 +30,5 @@ O comando `gzip` usa o algoritmo de compactação de dados **Lempel-Ziv**.&#x20;
 Enquanto os utilitários `bzip` usam um algoritmo de compactação diferente chamado de classificação de blocos Burrows-Wheeler.&#x20;
 
 Que pode compactar arquivos menores do que gzipar, que custa  um  tempo mais da CPU.
+
+***
